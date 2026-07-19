@@ -11,3 +11,6 @@ A repository dedicated to enhancing relational database performance. This projec
 ## 🛠️ Tools Used
 - SQL (PostgreSQL/MySQL)
 - Database Execution Plan Visualizer
+
+### 📂 Project Files
+You can view my full SQL optimization scripts [here](https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/query_optimization_demo.sql).
