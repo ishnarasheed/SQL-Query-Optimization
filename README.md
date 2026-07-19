@@ -18,4 +18,7 @@ A repository dedicated to enhancing relational database performance. This projec
 * [Indexing Strategies](https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/indexing_demo.sql)
 * [Advanced Joins & Refactoring](https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/joins_demo.sql)
 
-  
+  ### 📂 Project Portfolio
+* [Indexing Strategies](./Indexing)
+* [Join Operations](./Joins)
+* [Data Transformation](./ETL_Scripts)
