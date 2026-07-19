@@ -13,6 +13,9 @@ A repository dedicated to enhancing relational database performance. This projec
 - Database Execution Plan Visualizer
 
 ### 📂 Project Files
+* [query_optimization_demo.sql](https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/query_optimization_demo.sql)
 * [Execution Plan Analysis](https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/execution_plan.sql)
 * [Indexing Strategies](https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/indexing_demo.sql)
 * [Advanced Joins & Refactoring](https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/joins_demo.sql)
+
+  
